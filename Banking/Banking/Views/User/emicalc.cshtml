@@ -1,0 +1,101 @@
+﻿@model Banking.Models.UserDetail.emicalc
+
+@{
+    ViewBag.Title = "emicalc";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@using (Html.BeginForm("emicalc", "user", FormMethod.Post))
+{
+
+<h2>emicalc</h2>
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>EMI Calculator</title>
+    <!-- import bootstrap css -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- style -->
+    <style>
+        h2 {
+            color: #03F;
+        }
+
+        #wrapper {
+            border: 1px solid #000;
+            padding-bottom: 20px;
+            margin-top: 10%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div id="wrapper" class="col-lg-4 col-md-offset-4">
+            <h2> EMI Calculator </h2>
+            <table width="95%" align="center">
+                <tr>
+                    <td width="147"> Loan Amount   </td>
+                    <td width="193"> <input type="text" id="prncipleAmount" name="prncipleAmount" required class="form-control" placeholder="Enter Loan Amount" /> </td>
+                </tr>
+                <tr>
+                    <td> Interest Rate </td>
+                    <td width="193" style="padding-top:10px;"> <input type="text" id="InterestRate" name="InterestRate" required class="form-control" placeholder="Enter Rate of Interest" /> </td>
+                </tr>
+                <tr>
+                    <td>
+                        Loan Period (in month)
+                    </td>
+                    <td style="padding-top:10px;">
+                        <input type="text" id="emiMonth" name="emiMonth" required class="form-control" placeholder="Enter Period in Month" />
+                    </td>
+
+                </tr>
+                <tr>
+                    <td style="padding-top:10px; " colspan="2">
+                        <button class="btn btn-success btn-block" onclick="EmiCalculaor();"> Find EMI </button>
+                    </td>
+                </tr>
+            </table>
+
+            <div id="result" align="center" style="color:#006;margin-top:20px;">    </div>
+        </div>
+    </div>
+    <br />
+    <br />
+    <!-- script for calculating EMI -->
+    <script>
+        function EmiCalculaor() {
+
+
+            var month = $("#emiMonth").val();
+            var rate = $("#InterestRate").val();
+            var pamt = $("#prncipleAmount").val();
+
+            var monthlyInterestRatio = (rate / 100) / 12;
+            var monthlyInterest = (monthlyInterestRatio * pamt);
+            var top = Math.pow((1 + monthlyInterestRatio), month);
+            var bottom = top - 1;
+            var sp = top / bottom;
+            var emi = ((pamt * monthlyInterestRatio) * sp);
+            var result = emi.toFixed(2);
+            var totalAmount = emi * month;
+            var yearlyInteret = totalAmount - pamt;
+            var downPayment = pamt * (20 / 100);
+            //alert(emi);
+            $("#result").empty();
+            $("#result").append("Your EMI = " + result);
+
+        }
+    </script>
+</body>
+</html>
+
+@section Scripts {
+
+}
+
+
+
+

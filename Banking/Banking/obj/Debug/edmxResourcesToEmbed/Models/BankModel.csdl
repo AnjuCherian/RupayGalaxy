@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BankingModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BankingEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Districts" EntityType="BankingModel.District" />
+    <EntitySet Name="Logins" EntityType="BankingModel.Login" />
+    <EntitySet Name="Registrations" EntityType="BankingModel.Registration" />
+    <AssociationSet Name="FK_Registration_District" Association="BankingModel.FK_Registration_District">
+      <End Role="District" EntitySet="Districts" />
+      <End Role="Registration" EntitySet="Registrations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Registration_Login" Association="BankingModel.FK_Registration_Login">
+      <End Role="Login" EntitySet="Logins" />
+      <End Role="Registration" EntitySet="Registrations" />
+    </AssociationSet>
+    <EntitySet Name="Banks" EntityType="BankingModel.Bank" />
+  </EntityContainer>
+  <EntityType Name="District">
+    <Key>
+      <PropertyRef Name="DistrictID" />
+    </Key>
+    <Property Name="DistrictID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DistrictName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Registrations" Relationship="BankingModel.FK_Registration_District" FromRole="District" ToRole="Registration" />
+  </EntityType>
+  <EntityType Name="Login">
+    <Key>
+      <PropertyRef Name="LoginID" />
+    </Key>
+    <Property Name="LoginID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleID" Type="Int32" />
+    <Property Name="Username" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Isdeleted" Type="Boolean" />
+    <Property Name="CreatedOn" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Registrations" Relationship="BankingModel.FK_Registration_Login" FromRole="Login" ToRole="Registration" />
+  </EntityType>
+  <EntityType Name="Registration">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LoginID" Type="Int32" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Gender" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Mobile" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="AaadharNo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="PAN" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="DistrictID" Type="Int32" />
+    <Property Name="Salary" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="UserImg" Type="String" MaxLength="8000" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="District" Relationship="BankingModel.FK_Registration_District" FromRole="Registration" ToRole="District" />
+    <NavigationProperty Name="Login" Relationship="BankingModel.FK_Registration_Login" FromRole="Registration" ToRole="Login" />
+  </EntityType>
+  <Association Name="FK_Registration_District">
+    <End Type="BankingModel.District" Role="District" Multiplicity="0..1" />
+    <End Type="BankingModel.Registration" Role="Registration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="District">
+        <PropertyRef Name="DistrictID" />
+      </Principal>
+      <Dependent Role="Registration">
+        <PropertyRef Name="DistrictID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Registration_Login">
+    <End Type="BankingModel.Login" Role="Login" Multiplicity="0..1" />
+    <End Type="BankingModel.Registration" Role="Registration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Login">
+        <PropertyRef Name="LoginID" />
+      </Principal>
+      <Dependent Role="Registration">
+        <PropertyRef Name="LoginID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Bank">
+    <Key>
+      <PropertyRef Name="BankID" />
+    </Key>
+    <Property Name="BankID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BankName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="BankLocation" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Mobile" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Website" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

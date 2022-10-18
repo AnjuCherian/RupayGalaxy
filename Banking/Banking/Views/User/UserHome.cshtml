@@ -1,0 +1,58 @@
+﻿@model Banking.Models.Registration
+
+@{
+    ViewBag.Title = "UserHome";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="col-md-6">
+                <div class="col-md-6" style="padding:40px;">
+                    <img src="@Model.UserImg" class="img-circle" alt="Cinque Terre" width="304" height="236">
+                </div>
+            </div>
+            <div class="col-md-6" style=" padding: 40px;">
+                <table class="table table-hover">
+
+                    <tbody>
+                        <tr>
+                            <td>Name</td>
+                            <td>@Model.Name</td>
+                        </tr>
+                        <tr>
+                            <td>Gender</td>
+                            <td>@Model.Gender</td>
+                        </tr>
+                        <tr>
+                            <td>Address</td>
+                            <td>@Model.Address</td>
+                        </tr>
+                        <tr>
+                            <td>Mobile</td>
+                            <td>@Model.Mobile</td>
+                        </tr>
+                        <tr>
+                            <td>Email</td>
+                            <td>@Model.Email</td>
+                        </tr>
+                        <tr>
+                            <td>Aadhar</td>
+                            <td>@Model.AaadharNo</td>
+                        </tr>
+                        <tr>
+                            <td>PAN</td>
+                            <td>@Model.PAN</td>
+                        </tr>
+                        <tr>
+                            <td>Salary</td>
+                            <td>@Model.Salary</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+</div>

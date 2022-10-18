@@ -1,0 +1,43 @@
+﻿@model Banking.Models.BankingViewModel
+@{
+    ViewBag.Title = "SelectLoanType";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />   
+
+</head>
+<body>
+   
+   @using (Html.BeginForm("LoanDetails", "Loans", FormMethod.Post))
+   {
+    <div class="form-group">
+        <h3>Select Loan Type</h3>
+        <hr />
+        <div class="col-md-5">
+
+            @Html.DropDownListFor(x => Model.SelectedLoan, new SelectList(Model.LoansList, "Value", "Text"), htmlAttributes: new { @class = "form-control", id = "Loan" })
+            @Html.ValidationMessageFor(x => x.SelectedLoan, "", new { @class = "text-danger" })
+        </div>
+        <br />
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" class="btn btn-primary" value="Submit" style=" margin-top: 13px" />
+            </div>
+        </div>
+        <br />
+    </div>
+    }
+ 
+    @if (ViewBag.Message !=null)
+    {
+        <script type="text/javascript">
+            window.onload = function () {
+                alert("@ViewBag.Message");
+            };
+        </script>
+    }
+</body>
+</html>

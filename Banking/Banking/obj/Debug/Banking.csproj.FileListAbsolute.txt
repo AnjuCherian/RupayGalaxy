@@ -1,0 +1,791 @@
+c:\users\anumo\source\repos\Banking\Banking\bin\ApplicationInsights.config
+c:\users\anumo\source\repos\Banking\Banking\bin\Banking.dll.config
+c:\users\anumo\source\repos\Banking\Banking\bin\Banking.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\Banking.pdb
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\csc.exe
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\csc.exe.config
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\csc.rsp
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\csi.exe
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\csi.exe.config
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\csi.rsp
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.AppContext.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Collections.Immutable.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Console.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.IO.Compression.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.IO.FileSystem.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.IO.Pipes.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Security.AccessControl.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Security.Claims.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.ValueTuple.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Xml.XPath.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\vbc.exe
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\vbc.exe.config
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\vbc.rsp
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\VBCSCompiler.exe
+c:\users\anumo\source\repos\Banking\Banking\bin\roslyn\VBCSCompiler.exe.config
+c:\users\anumo\source\repos\Banking\Banking\bin\Antlr3.Runtime.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\EntityFramework.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\EntityFramework.SqlServer.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.AI.Web.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.AI.WindowsServer.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.ApplicationInsights.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.Web.Infrastructure.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\Newtonsoft.Json.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.Helpers.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.Mvc.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.Optimization.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.Razor.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.WebPages.Deployment.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.WebPages.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.WebPages.Razor.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\WebGrease.dll
+c:\users\anumo\source\repos\Banking\Banking\bin\EntityFramework.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\EntityFramework.SqlServer.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.Helpers.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.Mvc.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.Optimization.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.Razor.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.WebPages.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.WebPages.Deployment.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Web.WebPages.Razor.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\Newtonsoft.Json.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\Antlr3.Runtime.pdb
+c:\users\anumo\source\repos\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.AI.WindowsServer.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.AI.Web.xml
+c:\users\anumo\source\repos\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\anumo\source\repos\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+c:\users\anumo\source\repos\Banking\Banking\obj\Debug\Banking.csproj.CopyComplete
+c:\users\anumo\source\repos\Banking\Banking\obj\Debug\Banking.dll
+c:\users\anumo\source\repos\Banking\Banking\obj\Debug\Banking.pdb
+C:\Users\anumo\source\repos\Banking\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+E:\Banking\Banking\bin\ApplicationInsights.config
+E:\Banking\Banking\bin\Banking.dll.config
+E:\Banking\Banking\bin\Banking.dll
+E:\Banking\Banking\bin\Banking.pdb
+E:\Banking\Banking\bin\roslyn\csc.exe
+E:\Banking\Banking\bin\roslyn\csc.exe.config
+E:\Banking\Banking\bin\roslyn\csc.rsp
+E:\Banking\Banking\bin\roslyn\csi.exe
+E:\Banking\Banking\bin\roslyn\csi.exe.config
+E:\Banking\Banking\bin\roslyn\csi.rsp
+E:\Banking\Banking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Banking\Banking\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Banking\Banking\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Banking\Banking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Banking\Banking\bin\roslyn\System.AppContext.dll
+E:\Banking\Banking\bin\roslyn\System.Collections.Immutable.dll
+E:\Banking\Banking\bin\roslyn\System.Console.dll
+E:\Banking\Banking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Banking\Banking\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Banking\Banking\bin\roslyn\System.IO.Compression.dll
+E:\Banking\Banking\bin\roslyn\System.IO.FileSystem.dll
+E:\Banking\Banking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Banking\Banking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Banking\Banking\bin\roslyn\System.IO.Pipes.dll
+E:\Banking\Banking\bin\roslyn\System.Reflection.Metadata.dll
+E:\Banking\Banking\bin\roslyn\System.Security.AccessControl.dll
+E:\Banking\Banking\bin\roslyn\System.Security.Claims.dll
+E:\Banking\Banking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Banking\Banking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Banking\Banking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Banking\Banking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Banking\Banking\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Banking\Banking\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Banking\Banking\bin\roslyn\System.ValueTuple.dll
+E:\Banking\Banking\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Banking\Banking\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Banking\Banking\bin\roslyn\System.Xml.XPath.dll
+E:\Banking\Banking\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Banking\Banking\bin\roslyn\vbc.exe
+E:\Banking\Banking\bin\roslyn\vbc.exe.config
+E:\Banking\Banking\bin\roslyn\vbc.rsp
+E:\Banking\Banking\bin\roslyn\VBCSCompiler.exe
+E:\Banking\Banking\bin\roslyn\VBCSCompiler.exe.config
+E:\Banking\Banking\bin\Antlr3.Runtime.dll
+E:\Banking\Banking\bin\EntityFramework.dll
+E:\Banking\Banking\bin\EntityFramework.SqlServer.dll
+E:\Banking\Banking\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Banking\Banking\bin\Microsoft.Web.Infrastructure.dll
+E:\Banking\Banking\bin\Newtonsoft.Json.dll
+E:\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Banking\Banking\bin\System.Web.Helpers.dll
+E:\Banking\Banking\bin\System.Web.Mvc.dll
+E:\Banking\Banking\bin\System.Web.Optimization.dll
+E:\Banking\Banking\bin\System.Web.Razor.dll
+E:\Banking\Banking\bin\System.Web.WebPages.Deployment.dll
+E:\Banking\Banking\bin\System.Web.WebPages.dll
+E:\Banking\Banking\bin\System.Web.WebPages.Razor.dll
+E:\Banking\Banking\bin\WebGrease.dll
+E:\Banking\Banking\bin\EntityFramework.xml
+E:\Banking\Banking\bin\EntityFramework.SqlServer.xml
+E:\Banking\Banking\bin\System.Web.Helpers.xml
+E:\Banking\Banking\bin\System.Web.Mvc.xml
+E:\Banking\Banking\bin\System.Web.Optimization.xml
+E:\Banking\Banking\bin\System.Web.Razor.xml
+E:\Banking\Banking\bin\System.Web.WebPages.xml
+E:\Banking\Banking\bin\System.Web.WebPages.Deployment.xml
+E:\Banking\Banking\bin\System.Web.WebPages.Razor.xml
+E:\Banking\Banking\bin\Newtonsoft.Json.xml
+E:\Banking\Banking\bin\Antlr3.Runtime.pdb
+E:\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Banking\Banking\obj\Debug\Banking.dll
+E:\Banking\Banking\obj\Debug\Banking.pdb
+E:\Banking\Banking\obj\Debug\Banking.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\New folder\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\ApplicationInsights.config
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Banking.dll.config
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Banking.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Banking.pdb
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\EntityFramework.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\HtmlAgilityPack.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\WebGrease.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\EntityFramework.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\HtmlAgilityPack.pdb
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\HtmlAgilityPack.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\New folder\Banking\Banking\obj\Debug\Banking.csproj.CopyComplete
+C:\Users\PC\Desktop\New folder\Banking\Banking\obj\Debug\Banking.dll
+C:\Users\PC\Desktop\New folder\Banking\Banking\obj\Debug\Banking.pdb
+C:\Users\PC\Desktop\New folder\Banking\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+E:\Sebin\Banking\Banking\bin\ApplicationInsights.config
+E:\Sebin\Banking\Banking\bin\Banking.dll.config
+E:\Sebin\Banking\Banking\bin\Banking.dll
+E:\Sebin\Banking\Banking\bin\Banking.pdb
+E:\Sebin\Banking\Banking\bin\roslyn\csc.exe
+E:\Sebin\Banking\Banking\bin\roslyn\csc.exe.config
+E:\Sebin\Banking\Banking\bin\roslyn\csc.rsp
+E:\Sebin\Banking\Banking\bin\roslyn\csi.exe
+E:\Sebin\Banking\Banking\bin\roslyn\csi.exe.config
+E:\Sebin\Banking\Banking\bin\roslyn\csi.rsp
+E:\Sebin\Banking\Banking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sebin\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sebin\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sebin\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sebin\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sebin\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sebin\Banking\Banking\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sebin\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sebin\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sebin\Banking\Banking\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Sebin\Banking\Banking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sebin\Banking\Banking\bin\roslyn\System.AppContext.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Collections.Immutable.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Console.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.IO.Compression.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.IO.FileSystem.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.IO.Pipes.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Security.AccessControl.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Security.Claims.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.ValueTuple.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Xml.XPath.dll
+E:\Sebin\Banking\Banking\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Sebin\Banking\Banking\bin\roslyn\vbc.exe
+E:\Sebin\Banking\Banking\bin\roslyn\vbc.exe.config
+E:\Sebin\Banking\Banking\bin\roslyn\vbc.rsp
+E:\Sebin\Banking\Banking\bin\roslyn\VBCSCompiler.exe
+E:\Sebin\Banking\Banking\bin\roslyn\VBCSCompiler.exe.config
+E:\Sebin\Banking\Banking\bin\Antlr3.Runtime.dll
+E:\Sebin\Banking\Banking\bin\EntityFramework.dll
+E:\Sebin\Banking\Banking\bin\EntityFramework.SqlServer.dll
+E:\Sebin\Banking\Banking\bin\HtmlAgilityPack.dll
+E:\Sebin\Banking\Banking\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Sebin\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Sebin\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sebin\Banking\Banking\bin\Microsoft.Web.Infrastructure.dll
+E:\Sebin\Banking\Banking\bin\Newtonsoft.Json.dll
+E:\Sebin\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Sebin\Banking\Banking\bin\System.Web.Helpers.dll
+E:\Sebin\Banking\Banking\bin\System.Web.Mvc.dll
+E:\Sebin\Banking\Banking\bin\System.Web.Optimization.dll
+E:\Sebin\Banking\Banking\bin\System.Web.Razor.dll
+E:\Sebin\Banking\Banking\bin\System.Web.WebPages.Deployment.dll
+E:\Sebin\Banking\Banking\bin\System.Web.WebPages.dll
+E:\Sebin\Banking\Banking\bin\System.Web.WebPages.Razor.dll
+E:\Sebin\Banking\Banking\bin\WebGrease.dll
+E:\Sebin\Banking\Banking\bin\EntityFramework.xml
+E:\Sebin\Banking\Banking\bin\EntityFramework.SqlServer.xml
+E:\Sebin\Banking\Banking\bin\HtmlAgilityPack.pdb
+E:\Sebin\Banking\Banking\bin\HtmlAgilityPack.xml
+E:\Sebin\Banking\Banking\bin\System.Web.Helpers.xml
+E:\Sebin\Banking\Banking\bin\System.Web.Mvc.xml
+E:\Sebin\Banking\Banking\bin\System.Web.Optimization.xml
+E:\Sebin\Banking\Banking\bin\System.Web.Razor.xml
+E:\Sebin\Banking\Banking\bin\System.Web.WebPages.xml
+E:\Sebin\Banking\Banking\bin\System.Web.WebPages.Deployment.xml
+E:\Sebin\Banking\Banking\bin\System.Web.WebPages.Razor.xml
+E:\Sebin\Banking\Banking\bin\Newtonsoft.Json.xml
+E:\Sebin\Banking\Banking\bin\Antlr3.Runtime.pdb
+E:\Sebin\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Sebin\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Sebin\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sebin\Banking\Banking\obj\Debug\Banking.dll
+E:\Sebin\Banking\Banking\obj\Debug\Banking.pdb
+E:\Sebin\Banking\Banking\obj\Debug\Banking.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\Banking\Banking\bin\ApplicationInsights.config
+C:\Users\PC\Downloads\Banking\Banking\bin\Banking.dll.config
+C:\Users\PC\Downloads\Banking\Banking\bin\Banking.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\Banking.pdb
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\csc.exe
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\csc.exe.config
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\csc.rsp
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\csi.exe
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\csi.exe.config
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\csi.rsp
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Console.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\vbc.exe
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\vbc.exe.config
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\vbc.rsp
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Downloads\Banking\Banking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Downloads\Banking\Banking\bin\Antlr3.Runtime.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\EntityFramework.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\HtmlAgilityPack.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.Helpers.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.Mvc.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.Optimization.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.Razor.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.WebPages.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\WebGrease.dll
+C:\Users\PC\Downloads\Banking\Banking\bin\EntityFramework.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\HtmlAgilityPack.pdb
+C:\Users\PC\Downloads\Banking\Banking\bin\HtmlAgilityPack.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.Helpers.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.Mvc.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.Optimization.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.Razor.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.WebPages.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\Newtonsoft.Json.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Downloads\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PC\Downloads\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Downloads\Banking\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Banking\Banking\obj\Debug\Banking.csproj.CopyComplete
+C:\Users\PC\Downloads\Banking\Banking\obj\Debug\Banking.dll
+C:\Users\PC\Downloads\Banking\Banking\obj\Debug\Banking.pdb
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\ApplicationInsights.config
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Banking.dll.config
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Banking.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Banking.pdb
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\EntityFramework.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\HtmlAgilityPack.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\WebGrease.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\EntityFramework.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\HtmlAgilityPack.pdb
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\HtmlAgilityPack.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\obj\Debug\Banking.csproj.CopyComplete
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\obj\Debug\Banking.dll
+C:\Users\PC\Desktop\basil vuejs\Sebin\Banking\Banking\obj\Debug\Banking.pdb
+E:\Banking 1.0.7\Banking\Banking\bin\ApplicationInsights.config
+E:\Banking 1.0.7\Banking\Banking\bin\Banking.dll.config
+E:\Banking 1.0.7\Banking\Banking\bin\Banking.dll
+E:\Banking 1.0.7\Banking\Banking\bin\Banking.pdb
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\csc.exe
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\csc.exe.config
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\csc.rsp
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\csi.exe
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\csi.exe.config
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\csi.rsp
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.AppContext.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Collections.Immutable.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Console.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.IO.Compression.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.IO.FileSystem.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.IO.Pipes.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Reflection.Metadata.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Security.AccessControl.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Security.Claims.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.ValueTuple.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Xml.XPath.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\vbc.exe
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\vbc.exe.config
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\vbc.rsp
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\VBCSCompiler.exe
+E:\Banking 1.0.7\Banking\Banking\bin\roslyn\VBCSCompiler.exe.config
+E:\Banking 1.0.7\Banking\Banking\bin\Antlr3.Runtime.dll
+E:\Banking 1.0.7\Banking\Banking\bin\EntityFramework.dll
+E:\Banking 1.0.7\Banking\Banking\bin\EntityFramework.SqlServer.dll
+E:\Banking 1.0.7\Banking\Banking\bin\HtmlAgilityPack.dll
+E:\Banking 1.0.7\Banking\Banking\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Banking 1.0.7\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Banking 1.0.7\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Banking 1.0.7\Banking\Banking\bin\Microsoft.Web.Infrastructure.dll
+E:\Banking 1.0.7\Banking\Banking\bin\Newtonsoft.Json.dll
+E:\Banking 1.0.7\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.Helpers.dll
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.Mvc.dll
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.Optimization.dll
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.Razor.dll
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.WebPages.Deployment.dll
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.WebPages.dll
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.WebPages.Razor.dll
+E:\Banking 1.0.7\Banking\Banking\bin\WebGrease.dll
+E:\Banking 1.0.7\Banking\Banking\bin\EntityFramework.xml
+E:\Banking 1.0.7\Banking\Banking\bin\EntityFramework.SqlServer.xml
+E:\Banking 1.0.7\Banking\Banking\bin\HtmlAgilityPack.pdb
+E:\Banking 1.0.7\Banking\Banking\bin\HtmlAgilityPack.xml
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.Helpers.xml
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.Mvc.xml
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.Optimization.xml
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.Razor.xml
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.WebPages.xml
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.WebPages.Deployment.xml
+E:\Banking 1.0.7\Banking\Banking\bin\System.Web.WebPages.Razor.xml
+E:\Banking 1.0.7\Banking\Banking\bin\Newtonsoft.Json.xml
+E:\Banking 1.0.7\Banking\Banking\bin\Antlr3.Runtime.pdb
+E:\Banking 1.0.7\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Banking 1.0.7\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Banking 1.0.7\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Banking 1.0.7\Banking\Banking\obj\Debug\Banking.dll
+E:\Banking 1.0.7\Banking\Banking\obj\Debug\Banking.pdb
+E:\Banking 1.0.7\Banking\Banking\obj\Debug\Banking.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\ApplicationInsights.config
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Banking.dll.config
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Banking.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Banking.pdb
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\csc.exe
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\csc.exe.config
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\csc.rsp
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\csi.exe
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\csi.exe.config
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\csi.rsp
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.AppContext.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Console.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.IO.Compression.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Security.Claims.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.ValueTuple.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\vbc.exe.config
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\vbc.rsp
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Antlr3.Runtime.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\EntityFramework.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\HtmlAgilityPack.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.Helpers.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.Optimization.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.WebPages.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.WebPages.Razor.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\WebGrease.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\EntityFramework.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\HtmlAgilityPack.pdb
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\HtmlAgilityPack.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.Helpers.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.Optimization.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.WebPages.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Web.WebPages.Razor.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Antlr3.Runtime.pdb
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\obj\Debug\Banking.dll
+C:\Users\LENOVO\Downloads\Banking\Banking (1)\Banking\Banking\obj\Debug\Banking.pdb
+C:\Users\Admin\Desktop\Banking\Banking\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\Banking\Banking\bin\Banking.dll.config
+C:\Users\Admin\Desktop\Banking\Banking\bin\Banking.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\Banking.pdb
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Banking\Banking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Banking\Banking\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\HtmlAgilityPack.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Banking\Banking\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\HtmlAgilityPack.pdb
+C:\Users\Admin\Desktop\Banking\Banking\bin\HtmlAgilityPack.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Banking\Banking\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Admin\Desktop\Banking\Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Banking\Banking\obj\Debug\Banking.dll
+C:\Users\Admin\Desktop\Banking\Banking\obj\Debug\Banking.pdb

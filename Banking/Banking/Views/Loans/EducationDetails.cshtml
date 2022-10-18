@@ -1,0 +1,77 @@
+﻿@model Banking.Models.UserDetail.EducationalLoanDetail
+
+@{
+    ViewBag.Title = "Education Loan Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<style>
+    #percent-sign {
+        top: 8px;
+        left: 75px;
+        color: #555;
+        position: absolute;
+        z-index: 1;
+    }
+</style>
+@using (Html.BeginForm("BankDetail", "Loans", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="row">
+        <div class="col-12 col-md-6 col-lg-6">
+            <div class="form-horizontal">
+                <h3 style="font-family:'Times New Roman'">Educational Loan Details</h3>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Age, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <input type="number" class="form-control" name="Age" min="18" max="35" required>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.AcademicPercentage, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <span id="percent-sign">%</span>
+                        <input type="number" class="form-control" min="0" max="100" maxlength="3" required>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Amount, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <h6 style="font-family:'Times New Roman';color:red">Amount should be in Rupees</h6>
+                        <input type="number" class="form-control" name="Amount" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.TypeOfCourse, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(x => Model.TypeOfCourse, new SelectList(Model.TypeOfCourse), htmlAttributes: new { @class = "form-control", id = "Loan" })
+                        @Html.ValidationMessageFor(x => x.TypeOfCourse, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.tenure, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <input type="number" class="form-control" name="Tenure" min="1" max="30" required>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" class="btn btn-primary" value="Submit" style="    margin-top: 13px" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4">
+            <div class="single-service-area d-flex mb-100 wow fadeInUp" data-wow-delay="200ms">
+                <div class="icon">
+                    <img src="~/content/hometemplate/img/bg-img/e1.jpg" style="max-width:700px;max-height:700px;position:relative center;" />
+                </div>
+
+            </div>
+        </div>
+    </div>
+}
